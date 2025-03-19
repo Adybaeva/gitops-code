@@ -2,7 +2,7 @@ name: python-flask
 environment: dev
 replicaCount: 1
 image:
-  repository: eramirez2701/dev-code
+  repository: Adybaeva/dev-code
   tag: 239d845
   pullPolicy: Always
 service:

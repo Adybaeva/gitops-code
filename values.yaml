@@ -2,7 +2,7 @@ name: python-flask
 environment: test
 replicaCount: 1
 image:
-  repository: eramirez2701/dev-code
+  repository: Adybaeva/dev-code
   tag: latest
   pullPolicy: Always
 
@@ -19,4 +19,3 @@ resources:
   requests:
     cpu: 100m
     memory: 128Mi
-

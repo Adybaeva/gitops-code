@@ -2,8 +2,8 @@ name: python-flask
 environment: dev
 replicaCount: 1
 image:
-  repository: Adybaeva/dev-code
-  tag: 239d845
+  repository: adybaevat/dev-code
+  tag: "5335662"
   pullPolicy: Always
 service:
   name: python-flask-svc

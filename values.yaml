@@ -2,7 +2,7 @@ name: python-flask
 environment: test
 replicaCount: 1
 image:
-  repository: Adybaeva/dev-code
+  repository: adybaevat/dev-code
   tag: latest
   pullPolicy: Always
 
